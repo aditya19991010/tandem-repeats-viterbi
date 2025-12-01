@@ -14,7 +14,7 @@ This project simulates dinucleotide tandem repeats (e.g., ATATAT...) in DNA and 
 
 ## 🧪 Objectives
 1. Generate a synthetic tandem repeat sequence (mother sequence).
-2. Introduce mutations simulating real-world errors (corrupted daughter sequence).
+2. Introduce mutations simulating real-world errors (corrupted sequence).
 3. Apply the Viterbi algorithm to decode and reconstruct the original sequence.
 4. Evaluate fidelity using Bit Error Rate (BER) or repeat-level accuracy.
 
